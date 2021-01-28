@@ -1,0 +1,232 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja"><!-- InstanceBegin template="/templates/top.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>404 - File Not Found | 東北電力</title>
+<meta name="description" content="東北電力，節電，計画停電">  
+<meta name="keywords" content="東北電力,節電,計画停電"> 
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Style-Type" content="text/css"> 
+<meta http-equiv="Content-Script-Type" content="text/javascript"> 
+<link rel="shortcut icon" href="common/image/favicon.ico">
+<link rel="stylesheet" href="shared/css/content_import.css" type="text/css" media="all">
+<link rel="stylesheet" href="common/css/import.css" type="text/css" media="all">
+<script type="text/javascript" language="javascript" src="common/js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="common/js/common.js"></script>
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<!-- InstanceParam name="パンくず表示" type="boolean" value="false" -->
+<!-- InstanceParam name="パンくず数" type="number" value="2" -->
+
+</head>
+
+<body id="pageTop">
+<div id="wrapper">
+
+<!-- ヘッダーエリア　ここから
+<div id="header">
+
+<div class="navigationSkip">
+<ul>
+	<li><a href="#skip">サイト共通メニューをスキップします。</a></li>
+</ul>
+</div>
+
+<h1><a href="../index.html"><img src="../common/image/logo.gif" alt="東北電力" width="133" height="46"></a></h1>
+<p class="btnHeader"><a href="../index.html"><img src="../common/image/btn_header_02.gif" alt="節電方法のご紹介サイトトップへ" width="204" height="17" class="margR05"></a><a href="http://www.tohoku-epco.co.jp/" target="_blank"><img src="../common/image/btn_header.gif" alt="東北電力サイトへ" width="121" height="17"></a></p>
+</div>
+ヘッダーエリア　ここまで //-->
+
+<!--▽▽▽ヘッダー▽▽▽-->
+
+<div id="contentHead">
+
+<!--contentHead-->
+
+<div id="contentHeadWidth">
+
+<div id="contentHeadInner">
+
+<div id="header">&nbsp;</div>
+
+<div class="accessibleNavi">
+
+<!--accessible navigaton-->
+
+<p><img src="/n_shared/images/shim.gif" width="1" height="1" alt="ここからサイト共通メニューです。"></p>
+
+<a href="#contentHeadBtm"><img src="/n_shared/images/shim.gif" width="1" height="1" alt="サイト共通メニューをスキップします。"></a>
+
+<!--/accessible navigaton-->
+
+</div>
+
+
+<p id="headTitle"><a href="http://www.tohoku-epco.co.jp/index.html"><img src="shared/image/head_logo.gif" alt="東北電力" width="127" height="36" border="0"></a></p>
+
+<ul id="headLink">
+
+<li><a href="http://www.tohoku-epco.co.jp/callcenter/index.html" title="コールセンター"><img src="http://www.tohoku-epco.co.jp/n_shared/images/head_link01.gif" width="102" height="17" alt="コールセンター"></a></li>
+
+<li><a href="http://www.tohoku-epco.co.jp/f47docs/f47htop.html"><img src="http://www.tohoku-epco.co.jp/n_shared/images/head_link02.gif" width="147" height="17" alt="インターネットお申込み"></a></li>
+
+</ul>
+
+<ul id="headSiteNavi">
+
+<li><a href="http://www.tohoku-epco.co.jp/toiawas/index.html">お問い合わせ</a></li>
+
+<li><a href="http://www.tohoku-epco.co.jp/sitemap/index.html" title="サイトマップ">サイトマップ</a></li>
+
+<li class="lastItem"><a href="http://www.tohoku-epco.co.jp/index-e.htm">English</a></li>
+
+</ul>
+
+<div id="headSiteSearch">
+
+<form action="http://www.tohoku-epco.co.jp/cgi-bin/namazu.cgi">
+
+<p>
+
+<label for="epcoquery"><img src="/n_shared/images/shim.gif" width="1" height="1" alt="検索"></label>
+
+<input name="query" id="epcoquery" type="text"><input name="Submit" type="image" id="epcosubmit" src="http://www.tohoku-epco.co.jp/n_shared/images/head_btn_search.gif" alt="検索" width="32" height="19">
+
+</p>
+
+</form>
+
+</div>
+
+<ul id="headGlobalNavi">
+
+<li id="globalNavi01"><a href="http://www.tohoku-epco.co.jp/second/electract/">電気料金・ご契約</a></li>
+
+<li id="globalNavi02"><a href="http://www.tohoku-epco.co.jp/second/eleclution/">省エネライフ・エネルギーソリューション</a></li>
+
+<li id="globalNavi03"><a href="http://www.tohoku-epco.co.jp/second/ircomp/">IR・会社情報</a></li>
+
+<li id="globalNavi04"><a href="http://www.tohoku-epco.co.jp/second/energy/">原子力・環境・エネルギー</a></li>
+
+<li id="globalNavi05"><a href="http://www.tohoku-epco.co.jp/second/antidisaster/">災害に備えて</a></li>
+
+<li id="globalNavi06"><a href="http://www.tohoku-epco.co.jp/second/withlocal/">地域とともに</a></li>
+
+<li id="globalNavi07"><a href="http://www.tohoku-epco.co.jp/second/publikids/">キッズ・広報誌</a></li>
+
+</ul>
+
+<div id="contentHeadBtm">&nbsp;</div>
+
+</div>
+
+</div>
+
+<!--/contentHead-->
+
+</div>
+
+
+
+<!--▲▲▲ヘッダー▲▲▲-->
+
+
+
+<div id="contents" class="clearFix">
+  
+  
+  
+  
+  <!-- トップタイトル //-->
+	<!-- InstanceBeginEditable name="topTitle" --><div class="margT30"><a id="skip" name="skip"></a></div><!-- InstanceEndEditable -->
+	
+  <!-- コンテンツ内容　ここから //-->
+  <div id="contentsIn" class="clearFix">
+  <!-- InstanceBeginEditable name="contentsIn" -->
+      
+      <div class="errorContainer">
+        <div class="errorContainerIn clearFix">
+          <p class="errorImg"><img src="common/image/img_error.gif" alt="404 - File Not Found" width="89" height="157"></p>
+          <div class="errorList">
+            <dl>
+              <dt><img src="common/image/ttl_404.gif" alt="404 - File Not Found" width="437" height="43"></dt>
+              <dd class="margB25">アクセスしようとしたページが見つかりません。<br>
+                ページが移動または削除された、あるいはURLの入力ミスの可能性があります。</dd>
+              <dd>以下より、東北電力：節電のご紹介サイト トップページへ移動できます。</dd>
+            </dl>
+            <!--<p><a href="index.html" class="linkSquare"><img src="common/image/btn_error_top.gif" alt="節電のご紹介サイト トップページへ" width="251" height="15"></a></p>-->
+          </div>
+        </div>
+      </div>
+      
+  
+      <!-- 節電関連リンク //-->
+  <!-- InstanceEndEditable -->  </div>
+  <!-- コンテンツ内容　ここまで //-->
+	
+  
+<p class="pageTop"><a href="#pageTop">ページトップへ戻る</a></p>
+</div>
+ 
+<!-- フッターエリア　ここから
+<div id="footer">
+<p><img src="../common/image/copyright.gif" alt="&copy;Tohoku-Electric Power Co.,Inc. All Rights Reserved." width="288" height="10"></p>
+</div>
+フッターエリア　ここまで //-->
+
+<!-- ▽▽▽フッター▽▽▽ -->
+
+<div id="contentFoot">
+
+<!--contentFoot-->
+
+<div id="contentFootWidth">
+
+<div id="contentFootInner">
+
+<ul>
+
+<li class="fItem"><a href="http://www.tohoku-epco.co.jp/leagal/index.html" >ご利用にあたって</a></li>
+
+<li><a href="http://www.tohoku-epco.co.jp/privacy/security.html">情報セキュリティ基本方針</a></li>
+
+<li><a href="http://www.tohoku-epco.co.jp/privacy/index.html">個人情報保護</a></li>
+
+<li><a href="http://www.tohoku-epco.co.jp/link/index.html">リンク集</a></li>
+
+<li><a href="http://www.tohoku-epco.co.jp/mobile_info/index.html">携帯電話向けホームページのご案内</a></li>
+
+</ul>
+
+<p>(C)Tohoku-Electric Power Co.,Inc. All Rights Reserved. </p>
+
+
+
+</div>
+
+</div>
+
+<!--/contentFoot-->
+
+</div>
+
+
+
+<!-- ▲▲▲フッター▲▲▲ -->
+
+
+</div>
+
+<!-- Include SiteAnalytics Tag-->
+<!-- DO NOT ALTER ANYTHING BELLOW             -->
+<!-- Start SiteAnalyze 2011/05/18 defide inc.   -->
+<!-- SiteAnalytics for THD            -->
+<script SRC="/common/js/dcs_tag_DE.js" language="JavaScript" Type="text/javascript"></script>
+<NOSCRIPT>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.siteanalytics.jp/dcs3oqk1r7fnvrvccf4guyotl_5q7v/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
+</NOSCRIPT>
+<!-- End SiteAnalytics Tag-->
+<!-- InstanceBeginEditable name="ScriptArea" --><!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>
