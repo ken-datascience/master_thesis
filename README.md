@@ -1,7 +1,7 @@
 # Source code for my capstone project: Strategic Energy Trading on the Japan Electric Power Exchange (JEPX)
 
 ## Discription about this repository
-All the source codes that were used on my capstone project are stored here.
+All the source codes of my capstone project are stored here. Please feel free to download and use them if you are interested in this project.
 
 ## Purpose of the capstone project
 This project aims to construct and examine trading strategy of combined trading position both on the Day-Ahead market and the intraday market in order to investigate a research question: How can market participants trade electricity actively on the intraday market? TThis projcet focuses on trading strategy JEPX
