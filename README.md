@@ -1,11 +1,24 @@
-# Capstone project: Strategic Energy Trading on the Japan Electric Power Exchange (JEPX)” – Applying a Machine Learning Process for Future Price Prediction and Mean-Variance Portfolio Theory 
-
-## Purpose of this project
+# Source code for my capstone project: Strategic Energy Trading on the Japan Electric Power Exchange (JEPX)
 
 ## Discription about this repository
+All the source codes that were used on my capstone project are stored here.
+
+## Purpose of the capstone project
+This project aims to construct and examine trading strategy of combined trading position both on the Day-Ahead market and the intraday market in order to investigate a research question: How can market participants trade electricity actively on the intraday market? TThis projcet focuses on trading strategy JEPX
+
+## The contents of this repository
+The main contents of this repository are as follows:
+
+### 01_Pipeline_CapstoneProject_(Preparation for all_data)
 
 
+### 02-1_Pipeline_CapstoneProject_(Prediction_before_DA)
 
 
+### 02-2_Pipeline_CapstoneProject_(Prediction_after_DA)
 
-## Contents of 
+
+### 03_Pipeline_CapstoneProject_(Strategic_Trading)
+
+
+### [Folder]Original_analysis(All_algorithms)
