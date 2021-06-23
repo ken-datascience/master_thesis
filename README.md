@@ -13,7 +13,7 @@ The main contents of this repository are as follows:
 
 
 ### 02-1_Pipeline_CapstoneProject_(Prediction_before_DA)
-
+https://github.com/ken-datascience/master_thesis/blob/master/image.png
 
 ### 02-2_Pipeline_CapstoneProject_(Prediction_after_DA)
 
