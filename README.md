@@ -23,8 +23,8 @@ The main contents of this repository are as follows:
 ![Prediction result (Before DA)](https://github.com/ken-datascience/master_thesis/blob/master/Images/PredictionResult_AfterDA.png)
 
 - [03_Pipeline_CapstoneProject_(Strategic_Trading)](https://github.com/ken-datascience/master_thesis/blob/master/03_Pipeline_CapstoneProject_(Strategic_Trading).ipynb) contain pipeline of investigation for electricity trading strategies based on the predicted price. Please note that some code for back-testing process on this notebook require large amount of  calculation cost.
-![Strategic portfolios for sellers](https://github.com/ken-datascience/master_thesis/blob/master/Images/Strategic_Portfolios_Seller.png)
-![Strategic portfolios for buyers](https://github.com/ken-datascience/master_thesis/blob/master/Images/Strategic_Portfolios_Buyer.png)
+![Strategic portfolios for sellers](https://github.com/ken-datascience/master_thesis/blob/master/Images/Strategic_Portfolios_Sellers.png)
+![Strategic portfolios for buyers](https://github.com/ken-datascience/master_thesis/blob/master/Images/Strategic_Portfolios_Buyers.png)
 
 - [Original_analysis(All_algorithms) folder](https://github.com/ken-datascience/master_thesis/tree/master/Original_analysis(All_algorithms)) contains all the source code that is used on the project. If you are interested in prediction models such as other linear models and non-linear models, you can find them here. Please note that some prediction models take a lot of time for calculation.
-![Virtual bidding performance for traders](https://github.com/ken-datascience/master_thesis/blob/master/Images/VirtualBiddingPorformance_Trader.png)
+![Virtual bidding performance for traders](https://github.com/ken-datascience/master_thesis/blob/master/Images/VirtualBiddingPorformance_Traders.png)
