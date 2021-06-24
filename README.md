@@ -9,7 +9,7 @@ This capstone ptoject focuses on strategic electricity trading on JEPX, and aims
 ## The contents of this repository
 The main contents of this repository are as follows:
 
-- 01_Pipeline_CapstoneProject_(Preparation for all_data).ipynb contains pre-processing for all the collected datasets. It includes also time-series data analysis and expropatory data analysis for the datasets.
+- [01_Pipeline_CapstoneProject_(Preparation for all_data).ipynb](https://github.com/ken-datascience/master_thesis/blob/master/01_Pipeline_CapstoneProject_(Preparation%20for%20all_data).ipynb) contains pre-processing for all the collected datasets. It includes also time-series data analysis and expropatory data analysis for the datasets.
 
 ![Comparison between close price and system price](https://github.com/ken-datascience/master_thesis/blob/master/Images/Comparison%20of%20close%20price%20with%20System%20price.png)
 
